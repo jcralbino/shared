@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T11:08:14.733Z" agent="5.0 (Windows)" etag="HOOIuMrA7YeOWZxsiTs2" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T11:34:45.599Z" agent="5.0 (Windows)" etag="yeaw6DNXZjjBooEA9Mv7" version="18.1.1" type="github">
   <diagram id="snjiuTIP0JzLSiVEEBvV" name="MainLayout">
-    <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
           <mxGeometry x="859" y="350" width="51" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vzJ840o4cB8rxGhOG6Pi-58" value="&lt;div align=&quot;left&quot;&gt;L2 Bridge Domain - L2BD_BuildingA &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldA&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldA-Floor1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldA-Floor&amp;lt;n&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldA-DC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;L2 Bridge Domain - L2BD_BuildingB&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldB&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldB-Floor1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned to VlanGroup-BldB-Floor&amp;lt;n&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;L2 Bridge Domain - L2BD_BldExtended&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned as Parent of L2BD_BuildingA&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; Assigned as Parent of L2BD_BuildingB&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=5;fillColor=#FFFFFF;gradientColor=#ffffff;opacity=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="530" y="27.5" width="280" height="240" as="geometry" />
+          <mxGeometry x="570" y="100" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="vzJ840o4cB8rxGhOG6Pi-5" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#05A5F0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="375" width="64" height="64" as="geometry" />
